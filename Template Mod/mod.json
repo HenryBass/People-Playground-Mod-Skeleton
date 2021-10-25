@@ -1,1 +1,1 @@
-{"Name":"Template Mod","Author":"Henry","Description":"aaa","ModVersion":"1.0","GameVersion":"1.15","ThumbnailPath":"thumb.png","EntryPoint":"Mod.Mod","Scripts":["script.cs"]}
+{"Name":"Template Mod","Author":"Your Name","Description":"Desc","ModVersion":"1.0","GameVersion":"1.15","ThumbnailPath":"thumb.png","EntryPoint":"Mod.Mod","Scripts":["script.cs"]}
